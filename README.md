@@ -1,3 +1,4 @@
+ls
 # Greeting Cli
 
 ## Objectives
